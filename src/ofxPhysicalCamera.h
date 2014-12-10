@@ -3,6 +3,9 @@
 #include "ofMain.h"
 #include "ofxCv.h"
 
+// some codes are from satoruhiga's ofxInteractivePrimitives
+// https://github.com/satoruhiga/ofxInteractivePrimitives
+
 class ofxPhysicalCamera : public ofCamera
 {
 public:
